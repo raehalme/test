@@ -1,0 +1,11 @@
+{
+    "version": "v2",
+    "content": {
+        "messages": [
+            {
+                "type": "text",
+                "text": "AAA"
+            }
+        ]
+    }
+}
